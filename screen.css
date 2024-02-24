@@ -1,7 +1,8 @@
 /* Add screen styles below */
-section {
+main {
     display: flex;
     flex-direction: column;
+    
 }
 
 img {
