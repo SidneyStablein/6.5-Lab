@@ -1,1 +1,5 @@
 /* Add screen styles below */
+section {
+    display: flex;
+    flex-direction: column;
+}
